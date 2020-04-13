@@ -9,6 +9,8 @@ public class git_file {
 		System.out.println("inside branch 1");
 
 		System.out.println(" inside master");
+		
+		System.out.println("adding info");
 
 
 	}
