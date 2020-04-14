@@ -6,7 +6,7 @@ public class git_file {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("inside branch 1");
+	
 
 		System.out.println(" inside master");
 
