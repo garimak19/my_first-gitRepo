@@ -13,6 +13,9 @@ public class git_file {
 		System.out.println("adding info");
 
 
+		
+		
+		System.out.println("Checking pull   ");
 	}
 
 }
