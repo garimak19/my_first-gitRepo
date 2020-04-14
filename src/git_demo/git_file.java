@@ -15,7 +15,7 @@ public class git_file {
 
 		
 		
-		System.out.println("Checking pull   ");
+	
 	}
 
 }
