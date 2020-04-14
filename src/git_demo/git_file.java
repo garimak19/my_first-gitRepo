@@ -11,6 +11,9 @@ public class git_file {
 		System.out.println(" inside master");
 
 
+		
+		
+		System.out.println("Checking pull   ");
 	}
 
 }
